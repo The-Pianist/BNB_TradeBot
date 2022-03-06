@@ -1,0 +1,15 @@
+{
+  "name": "tradebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pianist",
+  "license": "ISC",
+  "dependencies": {
+    "node-binance-api": "^0.13.1",
+    "tulind": "^0.8.20"
+  }
+}
